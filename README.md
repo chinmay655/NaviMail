@@ -4,7 +4,7 @@ NaviMail is a modern, responsive business email solutions website developed for 
 
 ## Live Website
 
-https://de.navicentsolutions.com/
+https://navimail.in
 
 ## Project Overview
 
@@ -88,7 +88,7 @@ The website includes cookie preference management and is designed with privacy-c
 
 Developed for **Navicent Solutions**.
 
-Website: https://navimail.in
+Website: https://navicentsolution.com
 
 ## Copyright
 
