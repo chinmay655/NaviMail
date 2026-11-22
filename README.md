@@ -88,7 +88,7 @@ The website includes cookie preference management and is designed with privacy-c
 
 Developed for **Navicent Solutions**.
 
-Website: https://navicentsolution.com
+Website: https://navicentsolutions.com
 
 ## Copyright
 
